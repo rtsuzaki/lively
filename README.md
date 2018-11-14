@@ -1,7 +1,7 @@
 # lively
 
-##Pre-reqs
+## Pre-reqs
 Node
 
-##Starting Server
+## Starting Server
 Run ```node lively/server/index.js```
